@@ -1,6 +1,6 @@
 # react-native-bar-chart
 
-![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/3.png)
+![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/small.png)
 
 ## Demo
 
