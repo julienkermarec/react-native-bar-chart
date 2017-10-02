@@ -1,7 +1,5 @@
 # react-native-bar-chart
 
-### NOTE: I have not been able to maintain this repo. Recommend switching to [Victory Charts](https://github.com/FormidableLabs/victory-native).
-
 ![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/3.png)
 
 ## Demo
