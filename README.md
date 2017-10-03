@@ -5,7 +5,8 @@
 ## Demo
 
 https://expo.io/@julienkermarec/react-native-bar-chart
-![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/expo_bar_chart.png)
+
+![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/expo.png)
 
 ## Tutoriel
 
@@ -17,10 +18,7 @@ You can have POSITIVE OR/AND NEGATIVE values
 You can have ONE values, or TEN values, automatically responsive
 You can CLICK on a value to see details
 
-![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/1.png)
-![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/2.png)
-![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/4.png)
-
+![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-bar-chart/master/screenshots/full.png)
 
 ## Usage
 ```javascript
