@@ -99,7 +99,7 @@ export default class HomeScreen extends React.Component {
     return (
       <View style={styles.container}>
         <View style={styles.card}>
-          <BarChart selected={this.state.barSelected} onPressItem={this.selectChart} height={180} chart={chart} />
+          <BarChart onPressItem={this.selectChart} height={180} chart={chart} />
           <View style={[styles.listSubtitle]}>
             <Text style={[styles.listSubtitleText]}>{subtitle}</Text>
           </View>
